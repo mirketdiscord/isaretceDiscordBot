@@ -1,11 +1,8 @@
 import discord
-#import os
-#import random
+import os
 import asyncio
 import aiohttp
-#import time as t
 import datetime
-#from discord import Game
 from discord.ext.commands import Bot
 from discord.ext import commands
 from discord.ext.commands import errors
